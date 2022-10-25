@@ -5,11 +5,14 @@ This plugin has clean the chat (Only visible for you)
 
 Requires to next
 
-        EASY COMMAND BLOCKER (REQUIRES CONFIGURABLE)
-https://www.spigotmc.org/resources/easycommandblocker-spigot-waterfall-velocity-1-8-1-19.101752/
+                Versions Minecraft Spigot/Paper
+        1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19
 
-        LUCK PERMS (REQUIRES CONFIGURABLE)
-https://www.spigotmc.org/resources/luckperms.28140/
+        	EASY COMMAND BLOCKER (REQUIRES CONFIGURABLE)
+	https://www.spigotmc.org/resources/easycommandblocker-spigot-waterfall-velocity-1-8-1-19.101752/
+
+		LUCK PERMS (REQUIRES CONFIGURABLE)
+	https://www.spigotmc.org/resources/luckperms.28140/
 
 # Commands plugin
 
