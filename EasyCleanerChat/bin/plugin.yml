@@ -1,0 +1,9 @@
+main: fabriciofya.easycleanerchat.EasyCleanerChat
+version: Beta.1.0
+name: EasyCleanerChat
+
+commands:
+  ClearChat:
+    description: This command Clean the chat full
+  reload:
+    description: This command reload the plugin config
