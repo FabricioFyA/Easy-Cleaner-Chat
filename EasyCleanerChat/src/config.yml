@@ -1,0 +1,7 @@
+#Is this configuration the plugin
+config:
+  actions:
+    CleanedChat:
+    - "message: &a&lThe chat has been cleaned &e&l(&rOnly visible for you&e&l)"
+#the configuration file can insert sounds, messages among other things but you can not put too many things
+#there, it may be that in the future you can put several more things
