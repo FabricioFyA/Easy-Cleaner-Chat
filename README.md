@@ -13,6 +13,9 @@ Requires to next
 
 		LUCK PERMS (REQUIRES CONFIGURABLE)
 	https://www.spigotmc.org/resources/luckperms.28140/
+	
+# [ADVERTICE]
+THIS PLUGIN IS NOW BETA, JUST WAIT FOR THE OFFICIAL LAUNCH OR IF YOU ARE IMPACTIVE YOU MAY HAVE BUGS, ERRORS, ETC.
 
 # Commands plugin
 
